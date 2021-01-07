@@ -1,4 +1,4 @@
-
+# Written by https://github.com/Oleyat/ 
 import requests
 import discord
 import os
