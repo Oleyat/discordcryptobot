@@ -1,4 +1,3 @@
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="oley" data-description="Support me on Buy me a coffee!" data-message="" data-color="#FF813F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
 A simple cryptocurrency stat tracker.
 
@@ -14,4 +13,4 @@ If you wish to add it to your own discord server, invite it from here: https://t
 
 Feel free to use self-host the bot, but make sure to credit me.
 
-Please donate with this link: https://ko-fi.com/zemcro
+Please donate with this link: https://www.buymeacoffee.com/oley
